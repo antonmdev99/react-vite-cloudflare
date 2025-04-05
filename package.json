@@ -12,6 +12,7 @@
 		"cf-typegen": "wrangler types"
 	},
 	"dependencies": {
+		"@rollup/rollup-linux-x64-gnu": "^4.39.0",
 		"react": "^19.0.0",
 		"react-dom": "^19.0.0"
 	},
